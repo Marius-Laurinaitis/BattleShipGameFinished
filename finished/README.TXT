@@ -4,7 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: BattleShipGame
+PROJECT TITLE: BattleShipGame with Unit Testing
 PURPOSE OF PROJECT:Game
 VERSION or DATE:FINAL
 HOW TO START THIS PROJECT:Through CMD or BlueJ
