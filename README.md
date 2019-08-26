@@ -1,8 +1,10 @@
 # BattleShipGameFinished
 BattleShip game in Java.
-To run the game you should run BattleshipGame.java .
-In CMD type: javac BattleshipGame.java
-type: java BattleshipGame
+To run the game you should locate the in the folder BattleshipGame.java compile and run.
+
+In CMD type: javac BattleshipGame.java  
+
+In CMD type: java BattleshipGame
 ------------------------------------------------------------------------
 
 PROJECT TITLE: BattleShipGame with Unit Testing
