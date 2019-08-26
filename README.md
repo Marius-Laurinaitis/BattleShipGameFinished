@@ -1,6 +1,6 @@
 # BattleShipGameFinished
 BattleShip game in Java.
-To run the game you should locate the in the folder BattleshipGame.java compile and run.
+To run the game you should locate the file in the folder BattleshipGame.java compile and run.
 
 In CMD type: javac BattleshipGame.java  
 
