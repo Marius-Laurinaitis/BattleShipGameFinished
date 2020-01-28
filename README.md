@@ -1,3 +1,9 @@
+
+<div align="center">
+<img src="BattleShipGamepr.png" width="800" >
+</div>
+
+
 # BattleShipGameFinished
 BattleShip game in Java.
 To run the game you should locate the file in the folder BattleshipGame.java compile and run.
